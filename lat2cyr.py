@@ -158,7 +158,7 @@ Please specify a valid file.""" % argument, code=2)
             infile.close()
             for pairs in [EXCEPTIONS, DIPHTONGS, PAIRS]:
                 current = transliterate(current, pairs)
-                cloaca.write(current)
+            cloaca.write(current)
         print cloaca.getvalue().encode("utf-8")
         cloaca.close()
 
