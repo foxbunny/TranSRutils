@@ -17,7 +17,7 @@ TranSRutils су писани у Python_-у па су самим тим прен
 Linux, па софтвер тестирам само на тој платформи. Све пронађене багове
 пријавите на адресу bg (тачка) branko (мајмун) gmail (тачка) com
 
-_ Python: http://www.python.org/
+.. _Python: http://www.python.org/
 
 cyr2lat.py и lat2cyr.py
 -----------------------

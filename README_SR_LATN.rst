@@ -17,7 +17,7 @@ platforme, uključujući i Windows i Mac OSX. Međutim, ja lično koristim samo
 Linux, pa softver testiram samo na toj platformi. Sve pronađene bagove
 prijavite na adresu bg (tačka) branko (majmun) gmail (tačka) com
 
-_ Python: http://www.python.org/
+.. _Python: http://www.python.org/
 
 cyr2lat.py i lat2cyr.py
 -----------------------

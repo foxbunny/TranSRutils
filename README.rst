@@ -18,7 +18,7 @@ platforms including Microsoft Windows, and Mac OSX. However, I use Linux
 exclusively, so I haven't tested the tools under other systems. Please report
 any bugs you find to bg (dot) branko (at) gmail (dot) com
 
-_ Python: http://www.python.org/
+.. _Python: http://www.python.org/
 
 cyr2lat.py and lat2cyr.py
 -------------------------
